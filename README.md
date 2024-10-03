@@ -1,4 +1,7 @@
 # **Aplikacja do pracy inżynierskiej służąca do zarządzania obejrzanymi filmami**
+## **Poradnik uruchomienia:**
+Aby uruchomić aplikację poprawnie należy utworzyć zmienną środowiskową i ustawić do niej connection string do utworzonego clustera MongoDB
+MONGODB_CONNECTION_STRING = "connection-string"
 
 ## **V1:**
 Zmiany:
