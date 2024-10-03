@@ -1,0 +1,785 @@
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MediaWindow.g.cs
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersWindow.g.cs
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MediaWindow.baml
+C:\Users\CzajnikXD\source\repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersWindow.baml
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+C:\Users\czajn_\source\repos\Projekt\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+C:\Users\igorp\Source\Repos\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\3 rok\Dotnet\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\3 rok\Dotnet\Kopia 2\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\New folder\MediaCornerWPF\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_Content.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\Inżynierka\V1\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_Content.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\Inżynierka\Master\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_Content.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\Inżynierka\V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_Content.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\Inżynierka\Main\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_Content.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.Properties.Resources.resources
+D:\Private\studia\Inżynierka\Most Recent\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.GenerateResource.cache
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_Content.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.Properties.Resources.resources
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.GenerateResource.cache
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+C:\private\InżynTest\key test\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_Content.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.Properties.Resources.resources
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.GenerateResource.cache
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\Inżynierka\Public Ready V2\MediaCornerInzynierka\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.exe
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.deps.json
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.runtimeconfig.json
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.Core.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\AWSSDK.SecurityToken.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\DnsClient.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\FontAwesome.WPF.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Bson.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Driver.Core.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\MongoDB.Libmongocrypt.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\SharpCompress.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\Snappier.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\bin\Debug\net8.0-windows\runtimes\win\native\mongocrypt.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.AssemblyReference.cache
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\ButtonStyles.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\Styles\UIColors.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_Content.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.cache
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF_MarkupCompile.lref
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\App.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\CustomMessageBox.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\FriendsView.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\HomeView.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\LoginView.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MainMenuWindow.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\MovieView.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\RegisterView.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\SettingsView.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\UsersView.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\View\WatchlistView.baml
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.g.resources
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.Properties.Resources.resources
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.GenerateResource.cache
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfoInputs.cache
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.AssemblyInfo.cs
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.csproj.CoreCompileInputs.cache
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.sourcelink.json
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCor.CE51D0E2.Up2Date
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\refint\MediaCornerWPF.dll
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.pdb
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\MediaCornerWPF.genruntimeconfig.cache
+D:\Private\studia\Inżynierka\Public\Media-Corner\MediaCorner\MediaCornerWPF\obj\Debug\net8.0-windows\ref\MediaCornerWPF.dll
